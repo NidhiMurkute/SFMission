@@ -1,6 +1,6 @@
 {
-    "emname": "<yourmessageclientname>",
-    "namespace": "<yourorgname>/<yourmessageclientname>/<uniqueID>",
+    "emname": "sfmission",
+    "namespace": "missiondomain/sfmission/sf",
     "version": "1.1.0",
     "options": {
         "management": true,
